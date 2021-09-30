@@ -1,1 +1,1 @@
-<!-- image uploader with <input type="file" accept="image/*" /> -->
+image uploader with <input type="file" accept="image/*" />
